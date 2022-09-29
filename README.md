@@ -1,4 +1,4 @@
-# norwegian_csv
+# norwegian_txt2csv
 
 How to get your yearly cash point text file that can be converted into csv and then get the total cash points expiring:
 1. Go to Bank Norwegian website
