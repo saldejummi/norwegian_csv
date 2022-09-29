@@ -6,7 +6,7 @@ How to get your yearly cash point text file that can be converted into csv and t
 3. Click CashPoints
 4. Click CashPoints events
 5. The URL varies from country to country. You should now be on an URL like this https://www.banknorwegian.??/ownpage/cashback/transactions/cp/
-6. Choose the year e.g. 2020 that has cash points that expire at the end of 2022 (cash points expire after two years at the end of that year)
+6. Choose the year e.g. 2020 that has cash points that expire at the end of 2022 (cash points expire after two years at the end of that year except 2017-2019 that were extended untill the end of 2022)
 7. Ctrl+a Ctrl+c Ctrl+v the whole page into an empty txt file on same folder where you have norwegian_txt2csv.py
 8. Name the txt file 2020.txt
 9. Run norwegian_txt2csv.py
